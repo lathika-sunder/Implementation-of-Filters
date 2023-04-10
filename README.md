@@ -33,8 +33,8 @@ Register Number: 212221240017
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-image=cv2.imread('bike.jpg')
-image2=cv2.cvtColor (image1, cv2.COLOR_BGR2RGB)
+image=cv2.imread('car_06.jpg')
+image2=cv2.cvtColor (image, cv2.COLOR_BGR2RGB)
 ~~~
 ## 1. Smoothing Filters :
 ### i) Using Averaging Filter:
