@@ -26,8 +26,8 @@ Plot the images of the original one and the filtered one using plt.figure() and 
 
 ## Program:
 ~~~
-Developed By   : Javith farkhan S
-Register Number: 212221240017
+Developed By   : Lathika Sunder
+Register Number: 212221230054
 ~~~
 ~~~
 import cv2
